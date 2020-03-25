@@ -12,7 +12,7 @@ The language features of this MiniLisp-compiler are included in **"Compiler Fina
 **python MiniLisp.py**
 
 >>To run test data with file:
-**Modify the test data in "test.txt",then compiling this program.**
+**Modify the test data in "test.txt", then compiling this program.**
 
 >>To run test data manually:
 **Just enter the test data after compiling this program** 
