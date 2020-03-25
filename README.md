@@ -3,9 +3,9 @@ MiniLisp-Compiler
 
 This is the final project for NCU compiler class.
 
-The language uesd to write this project is "python.3"
+The language uesd to write this project is **"python.3"**.
 
-The language features of this MiniLisp-compiler are included in "Compiler Final Project.pdf" and "MiniLisp.pdf".
+The language features of this MiniLisp-compiler are included in **"Compiler Final Project.pdf"** and **"MiniLisp.pdf"**.
 
 
 >>Use the following command to compile:
